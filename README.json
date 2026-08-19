@@ -1,8 +1,277 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "coredns",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54230994,
+            "language": "Go",
+            "last_commit": "2026-08-19T01:39:14Z",
+            "owner": "coredns",
+            "repo": "coredns",
+            "stars": 14253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerDNS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9693534,
+            "language": "C++",
+            "last_commit": "2026-08-18T14:43:52Z",
+            "owner": "PowerDNS",
+            "repo": "pdns",
+            "stars": 4447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tenta-dns",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94369364,
+            "language": "Go",
+            "last_commit": "2020-06-18T08:47:38Z",
+            "owner": "tenta-browser",
+            "repo": "tenta-dns",
+            "stars": 1601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "robdns",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13026021,
+            "language": "C",
+            "last_commit": "2015-12-09T21:33:12Z",
+            "owner": "robertdavidgraham",
+            "repo": "robdns",
+            "stars": 611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nsd",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94198614,
+            "language": "C",
+            "last_commit": "2026-08-19T11:52:46Z",
+            "owner": "NLnetLabs",
+            "repo": "nsd",
+            "stars": 569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shaman",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45634477,
+            "language": "Go",
+            "last_commit": "2020-04-29T16:51:45Z",
+            "owner": "nanopack",
+            "repo": "shaman",
+            "stars": 455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "texnomic/securedns",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 187306849,
+            "language": "C#",
+            "last_commit": "2026-05-18T08:37:06Z",
+            "owner": "Texnomic",
+            "repo": "SecureDNS",
+            "stars": 368
+          }
+        }
+      ],
+      "title": "Authoritative Nameservers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dog",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 258827107,
+            "language": "Rust",
+            "last_commit": "2024-05-29T11:36:13Z",
+            "owner": "ogham",
+            "repo": "dog",
+            "stars": 6688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dnstwist",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37259508,
+            "language": "Python",
+            "last_commit": "2025-04-15T18:41:47Z",
+            "owner": "elceef",
+            "repo": "dnstwist",
+            "stars": 5728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "octodns",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84977146,
+            "language": "Python",
+            "last_commit": "2026-08-15T20:51:03Z",
+            "owner": "octodns",
+            "repo": "octodns",
+            "stars": 3746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dnsjava",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17084567,
+            "language": "Java",
+            "last_commit": "2026-06-14T17:29:30Z",
+            "owner": "dnsjava",
+            "repo": "dnsjava",
+            "stars": 1076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "denominator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 7807584,
+            "language": "Java",
+            "last_commit": "2023-04-10T11:04:51Z",
+            "owner": "Netflix",
+            "repo": "denominator",
+            "stars": 581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zonemaster",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12428636,
+            "language": "Perl",
+            "last_commit": "2026-07-22T12:15:26Z",
+            "owner": "zonemaster",
+            "repo": "zonemaster",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "atomiadns",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3345737,
+            "language": "Perl",
+            "last_commit": "2024-09-05T13:06:31Z",
+            "owner": "atomia",
+            "repo": "atomiadns",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opendnssec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16816651,
+            "language": "C",
+            "last_commit": "2025-07-02T10:01:09Z",
+            "owner": "opendnssec",
+            "repo": "opendnssec",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dnssec-monitor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 896141,
+            "language": "Perl",
+            "last_commit": "2018-12-16T22:12:26Z",
+            "owner": "dotse",
+            "repo": "dnssec-monitor",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NicTool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1069304638,
+            "language": null,
+            "last_commit": "2025-10-03T18:01:51Z",
+            "owner": "msimerson",
+            "repo": "NicTool",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Relevant Projects"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-18T18:13:11.632Z",
+    "last_updated": "2026-08-19T12:24:47.006Z",
     "original_repository": "SoylentBob/awesome-dns",
+    "original_repository_id": 162639991,
     "original_repository_sha": "f2ad851aa2ad13e2e5f0f90ef025a85d3e3a7331",
     "enhanced_repository": "enhansome/enhansome-dns",
     "enhanced_repository_description": null,

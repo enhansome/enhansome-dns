@@ -19,11 +19,11 @@
 
 # Authoritative Nameservers
 
-* [coredns](https://github.com/coredns/coredns) ⭐ 14,249 | 🐛 301 | 🌐 Go | 📅 2026-08-18
-* [PowerDNS](https://github.com/PowerDNS/pdns) ⭐ 4,446 | 🐛 931 | 🌐 C++ | 📅 2026-08-18
+* [coredns](https://github.com/coredns/coredns) ⭐ 14,253 | 🐛 297 | 🌐 Go | 📅 2026-08-19
+* [PowerDNS](https://github.com/PowerDNS/pdns) ⭐ 4,447 | 🐛 933 | 🌐 C++ | 📅 2026-08-18
 * [tenta-dns](https://github.com/tenta-browser/tenta-dns) ⭐ 1,601 | 🐛 6 | 🌐 Go | 📅 2020-06-18
 * [robdns](https://github.com/robertdavidgraham/robdns) ⭐ 611 | 🐛 9 | 🌐 C | 📅 2015-12-09
-* [nsd](https://github.com/NLnetLabs/nsd) ⭐ 569 | 🐛 74 | 🌐 C | 📅 2026-08-14
+* [nsd](https://github.com/NLnetLabs/nsd) ⭐ 569 | 🐛 75 | 🌐 C | 📅 2026-08-19
 * [shaman](https://github.com/nanopack/shaman) ⭐ 455 | 🐛 9 | 🌐 Go | 📅 2020-04-29
 * [texnomic/securedns](https://github.com/Texnomic/SecureDNS) ⭐ 368 | 🐛 16 | 🌐 C# | 📅 2026-05-18
 * [Knot DNS](https://gitlab.labs.nic.cz/knot/knot-dns)
@@ -32,10 +32,10 @@
 
 # Relevant Projects
 
-* [dog](https://github.com/ogham/dog) ⭐ 6,687 | 🐛 79 | 🌐 Rust | 📅 2024-05-29
-* [dnstwist](https://github.com/elceef/dnstwist/) ⭐ 5,727 | 🐛 18 | 🌐 Python | 📅 2025-04-15
+* [dog](https://github.com/ogham/dog) ⭐ 6,688 | 🐛 79 | 🌐 Rust | 📅 2024-05-29
+* [dnstwist](https://github.com/elceef/dnstwist/) ⭐ 5,728 | 🐛 18 | 🌐 Python | 📅 2025-04-15
 * [octodns](https://github.com/github/octodns/) ⭐ 3,746 | 🐛 5 | 🌐 Python | 📅 2026-08-15
-* [dnsjava](https://github.com/dnsjava/dnsjava) ⭐ 1,077 | 🐛 20 | 🌐 Java | 📅 2026-06-14
+* [dnsjava](https://github.com/dnsjava/dnsjava) ⭐ 1,076 | 🐛 20 | 🌐 Java | 📅 2026-06-14
 * [denominator](https://github.com/Netflix/denominator) ⚠️ Archived
 * [zonemaster](https://github.com/dotse/zonemaster/) ⭐ 535 | 🐛 146 | 🌐 Perl | 📅 2026-07-22
 * [atomiadns](https://github.com/atomia/atomiadns) ⭐ 367 | 🐛 19 | 🌐 Perl | 📅 2024-09-05
@@ -264,4 +264,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
