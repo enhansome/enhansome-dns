@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T09:24:12Z",
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14256
+            "stars": 14266
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T15:24:36Z",
             "owner": "PowerDNS",
             "repo": "pdns",
-            "stars": 4449
+            "stars": 4450
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 94198614,
             "language": "C",
-            "last_commit": "2026-08-19T11:52:46Z",
+            "last_commit": "2026-08-21T17:37:58Z",
             "owner": "NLnetLabs",
             "repo": "nsd",
             "stars": 569
@@ -126,7 +126,7 @@
             "last_commit": "2024-05-29T11:36:13Z",
             "owner": "ogham",
             "repo": "dog",
-            "stars": 6687
+            "stars": 6688
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-06-14T17:29:30Z",
             "owner": "dnsjava",
             "repo": "dnsjava",
-            "stars": 1076
+            "stars": 1077
           }
         },
         {
@@ -269,7 +269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T18:15:09.637Z",
+    "last_updated": "2026-08-21T18:14:33.408Z",
     "original_repository": "SoylentBob/awesome-dns",
     "original_repository_id": 162639991,
     "original_repository_sha": "f2ad851aa2ad13e2e5f0f90ef025a85d3e3a7331",
