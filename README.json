@@ -12,10 +12,10 @@
             "archived": false,
             "id": 54230994,
             "language": "Go",
-            "last_commit": "2026-08-26T13:45:12Z",
+            "last_commit": "2026-08-27T08:37:56Z",
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14279
+            "stars": 14280
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 9693534,
             "language": "C++",
-            "last_commit": "2026-08-26T14:33:53Z",
+            "last_commit": "2026-08-27T10:31:36Z",
             "owner": "PowerDNS",
             "repo": "pdns",
             "stars": 4456
@@ -141,7 +141,7 @@
             "last_commit": "2025-04-15T18:41:47Z",
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5730
+            "stars": 5731
           }
         },
         {
@@ -312,9 +312,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:27:04.732Z",
-    "original_repository": "SoylentBob/awesome-dns",
-    "original_repository_id": 162639991,
+    "last_updated": "2026-08-27T11:36:39.838Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 162639991,
+      "language": null,
+      "last_commit": "2023-12-25T08:43:52Z",
+      "owner": "SoylentBob",
+      "repo": "awesome-dns",
+      "stars": 87
+    },
     "original_repository_sha": "f2ad851aa2ad13e2e5f0f90ef025a85d3e3a7331",
     "enhanced_repository": "enhansome/enhansome-dns",
     "enhanced_repository_description": null,
