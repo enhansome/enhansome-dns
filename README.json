@@ -27,7 +27,7 @@
             "archived": false,
             "id": 9693534,
             "language": "C++",
-            "last_commit": "2026-08-27T10:31:36Z",
+            "last_commit": "2026-08-27T12:51:08Z",
             "owner": "PowerDNS",
             "repo": "pdns",
             "stars": 4456
@@ -141,7 +141,7 @@
             "last_commit": "2025-04-15T18:41:47Z",
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5731
+            "stars": 5732
           }
         },
         {
@@ -312,7 +312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:36:39.838Z",
+    "last_updated": "2026-08-28T01:47:00.506Z",
     "original_repository_info": {
       "archived": false,
       "id": 162639991,
