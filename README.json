@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CoreDNS is a DNS server that chains plugins",
+            "homepage": "https://coredns.io",
             "id": 54230994,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T02:18:23Z",
+            "open_issues": 298,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14285
+            "stars": 14284,
+            "topics": [
+              "cncf",
+              "coredns",
+              "dns-server",
+              "go",
+              "plugin",
+              "service-discovery"
+            ]
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
         },
@@ -26,12 +38,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PowerDNS Authoritative, PowerDNS Recursor, dnsdist",
+            "homepage": "https://www.powerdns.com/",
             "id": 9693534,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T12:51:08Z",
+            "open_issues": 927,
             "owner": "PowerDNS",
             "repo": "pdns",
-            "stars": 4457
+            "stars": 4457,
+            "topics": [
+              "authoritative",
+              "dns",
+              "dns-server",
+              "dnsdist",
+              "hacktoberfest",
+              "powerdns",
+              "powerdns-authoritative-server",
+              "recursor"
+            ]
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
         },
@@ -42,12 +68,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recursive and authoritative DNS server in go, including DNSSEC and DNS-over-TLS",
+            "homepage": "https://tenta.com/test",
             "id": 94369364,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2020-06-18T08:47:38Z",
+            "open_issues": 6,
             "owner": "tenta-browser",
             "repo": "tenta-dns",
-            "stars": 1601
+            "stars": 1601,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
         },
@@ -58,12 +89,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast DNS server based on C10M principles",
+            "homepage": null,
             "id": 13026021,
             "language": "C",
+            "license": null,
             "last_commit": "2015-12-09T21:33:12Z",
+            "open_issues": 9,
             "owner": "robertdavidgraham",
             "repo": "robdns",
-            "stars": 611
+            "stars": 611,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
         },
@@ -74,12 +110,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The NLnet Labs Name Server Daemon (NSD) is an authoritative, RFC compliant DNS nameserver.",
+            "homepage": "https://nlnetlabs.nl/nsd",
             "id": 94198614,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T13:19:48Z",
+            "open_issues": 74,
             "owner": "NLnetLabs",
             "repo": "nsd",
-            "stars": 569
+            "stars": 569,
+            "topics": [
+              "authoritative",
+              "dns",
+              "dnssec",
+              "name-server"
+            ]
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
         },
@@ -90,12 +136,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small, lightweight, api-driven dns server.",
+            "homepage": null,
             "id": 45634477,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-04-29T16:51:45Z",
+            "open_issues": 9,
             "owner": "nanopack",
             "repo": "shaman",
-            "stars": 455
+            "stars": 455,
+            "topics": [
+              "clustering",
+              "developer-tools",
+              "devops",
+              "devtools",
+              "dns",
+              "dns-server",
+              "golang",
+              "nanobox",
+              "nanopack"
+            ]
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
         },
@@ -106,12 +167,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Secure, Modern, Fully-Featured, All-In-One Cross-Architecture & Cross-Platform DNS Server Using .NET 10",
+            "homepage": null,
             "id": 187306849,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-05-18T08:37:06Z",
+            "open_issues": 16,
             "owner": "Texnomic",
             "repo": "SecureDNS",
-            "stars": 368
+            "stars": 368,
+            "topics": [
+              "blazor",
+              "blockchain",
+              "cairo-security-camp",
+              "dns",
+              "dns-client",
+              "dns-over-https",
+              "dns-over-tls",
+              "dns-protocol",
+              "dns-record",
+              "dns-server",
+              "dnscrypt",
+              "dnssec",
+              "doh",
+              "dotnet-standard",
+              "ens",
+              "entity-framework",
+              "ethereum-name-service",
+              "etherum",
+              "hangfire",
+              "securedns-server"
+            ]
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
         }
@@ -128,12 +215,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command-line DNS client.",
+            "homepage": "https://dns.lookup.dog/",
             "id": 258827107,
             "language": "Rust",
+            "license": "EUPL-1.2",
             "last_commit": "2024-05-29T11:36:13Z",
+            "open_issues": 79,
             "owner": "ogham",
             "repo": "dog",
-            "stars": 6690
+            "stars": 6690,
+            "topics": [
+              "client",
+              "command-line",
+              "dns",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
         },
@@ -144,12 +241,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation",
+            "homepage": "https://dnstwist.it",
             "id": 37259508,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-15T18:41:47Z",
+            "open_issues": 18,
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5732
+            "stars": 5732,
+            "topics": [
+              "dns",
+              "domains",
+              "fuzzing",
+              "homoglyph",
+              "homograph-attack",
+              "idn",
+              "osint",
+              "phishing",
+              "scanner",
+              "threat-hunting",
+              "threat-intelligence",
+              "typosquatting"
+            ]
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
         },
@@ -160,12 +275,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for managing DNS across multiple providers",
+            "homepage": null,
             "id": 84977146,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:59:26Z",
+            "open_issues": 5,
             "owner": "octodns",
             "repo": "octodns",
-            "stars": 3750
+            "stars": 3750,
+            "topics": [
+              "dns",
+              "infrastructure-as-code",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
         },
@@ -176,12 +300,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dnsjava - an implementation of the DNS protocol in Java",
+            "homepage": null,
             "id": 17084567,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-14T17:29:30Z",
+            "open_issues": 21,
             "owner": "dnsjava",
             "repo": "dnsjava",
-            "stars": 1077
+            "stars": 1077,
+            "topics": [
+              "dns",
+              "dnsjava",
+              "dnssec",
+              "dnssec-support",
+              "java",
+              "java-library",
+              "library"
+            ]
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
         },
@@ -192,12 +329,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Portably control DNS clouds using java or bash",
+            "homepage": null,
             "id": 7807584,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-10T11:04:51Z",
+            "open_issues": 2,
             "owner": "Netflix",
             "repo": "denominator",
-            "stars": 581
+            "stars": 581,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
         },
@@ -208,12 +350,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Zonemaster Project",
+            "homepage": null,
             "id": 12428636,
             "language": "Perl",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-22T12:15:26Z",
+            "open_issues": 147,
             "owner": "zonemaster",
             "repo": "zonemaster",
-            "stars": 537
+            "stars": 537,
+            "topics": [
+              "dns",
+              "dnssec"
+            ]
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
         },
@@ -224,12 +374,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Atomia DNS",
+            "homepage": "http://www.atomiadns.com/",
             "id": 3345737,
             "language": "Perl",
+            "license": "ISC",
             "last_commit": "2024-09-05T13:06:31Z",
+            "open_issues": 19,
             "owner": "atomia",
             "repo": "atomiadns",
-            "stars": 368
+            "stars": 368,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
         },
@@ -240,12 +395,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenDNSSEC - an open-source turn-key solution for DNSSEC",
+            "homepage": "www.opendnssec.org",
             "id": 16816651,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-02T10:01:09Z",
+            "open_issues": 23,
             "owner": "opendnssec",
             "repo": "opendnssec",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
         },
@@ -256,12 +416,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DNSSEC-monitoring tools used by .SE",
+            "homepage": null,
             "id": 896141,
             "language": "Perl",
+            "license": "NOASSERTION",
             "last_commit": "2018-12-16T22:12:26Z",
+            "open_issues": 1,
             "owner": "dotse",
             "repo": "dnssec-monitor",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
         },
@@ -272,12 +437,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NicTool: a DNS management solution",
+            "homepage": "http://www.nictool.com/",
             "id": 1069304638,
             "language": null,
+            "license": null,
             "last_commit": "2025-10-03T18:01:51Z",
+            "open_issues": 0,
             "owner": "msimerson",
             "repo": "NicTool",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
         }
@@ -294,12 +464,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains all the material from the talk \"Esoteric sub-domain enumeration techniques\" given at Bugcrowd LevelUp 2017 virtual conference",
+            "homepage": null,
             "id": 97083073,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-02-05T07:34:59Z",
+            "open_issues": 2,
             "owner": "appsecco",
             "repo": "bugcrowd-levelup-subdomain-enumeration",
-            "stars": 632
+            "stars": 632,
+            "topics": [
+              "bugcrowd",
+              "censys",
+              "certificate-transparency",
+              "crtsh",
+              "dns",
+              "dnssec",
+              "domains",
+              "enumeration",
+              "levelup",
+              "nsec",
+              "nsec3",
+              "osint",
+              "pentesting",
+              "subdomain"
+            ]
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
         },
@@ -312,12 +502,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenDNSSEC Training Material",
+                "homepage": null,
                 "id": 76387292,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2021-10-18T13:12:04Z",
+                "open_issues": 1,
                 "owner": "opendnssec",
                 "repo": "odslab",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "opendnssec"
+                ]
               },
               "first_seen": "2026-08-29T01:11:13.943Z"
             }
@@ -331,15 +528,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:11:13.943Z",
+    "last_updated": "2026-08-29T05:04:10.394Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome DNS resources",
+      "homepage": null,
       "id": 162639991,
       "language": null,
+      "license": null,
       "last_commit": "2023-12-25T08:43:52Z",
+      "open_issues": 5,
       "owner": "SoylentBob",
       "repo": "awesome-dns",
-      "stars": 87
+      "stars": 87,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dns",
+        "network-security",
+        "security"
+      ]
     },
     "original_repository_sha": "f2ad851aa2ad13e2e5f0f90ef025a85d3e3a7331",
     "enhanced_repository": "enhansome/enhansome-dns",
