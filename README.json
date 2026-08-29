@@ -12,11 +12,12 @@
             "archived": false,
             "id": 54230994,
             "language": "Go",
-            "last_commit": "2026-08-27T08:37:56Z",
+            "last_commit": "2026-08-28T02:18:23Z",
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14280
-          }
+            "stars": 14285
+          },
+          "first_seen": "2026-08-29T01:11:13.943Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-27T12:51:08Z",
             "owner": "PowerDNS",
             "repo": "pdns",
-            "stars": 4456
-          }
+            "stars": 4457
+          },
+          "first_seen": "2026-08-29T01:11:13.943Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "tenta-browser",
             "repo": "tenta-dns",
             "stars": 1601
-          }
+          },
+          "first_seen": "2026-08-29T01:11:13.943Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "robertdavidgraham",
             "repo": "robdns",
             "stars": 611
-          }
+          },
+          "first_seen": "2026-08-29T01:11:13.943Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 94198614,
             "language": "C",
-            "last_commit": "2026-08-26T09:24:15Z",
+            "last_commit": "2026-08-28T13:19:48Z",
             "owner": "NLnetLabs",
             "repo": "nsd",
             "stars": 569
-          }
+          },
+          "first_seen": "2026-08-29T01:11:13.943Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "nanopack",
             "repo": "shaman",
             "stars": 455
-          }
+          },
+          "first_seen": "2026-08-29T01:11:13.943Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "Texnomic",
             "repo": "SecureDNS",
             "stars": 368
-          }
+          },
+          "first_seen": "2026-08-29T01:11:13.943Z"
         }
       ],
       "title": "Authoritative Nameservers"
@@ -126,8 +133,9 @@
             "last_commit": "2024-05-29T11:36:13Z",
             "owner": "ogham",
             "repo": "dog",
-            "stars": 6687
-          }
+            "stars": 6690
+          },
+          "first_seen": "2026-08-29T01:11:13.943Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "elceef",
             "repo": "dnstwist",
             "stars": 5732
-          }
+          },
+          "first_seen": "2026-08-29T01:11:13.943Z"
         },
         {
           "node_type": "item",
@@ -153,11 +162,12 @@
             "archived": false,
             "id": 84977146,
             "language": "Python",
-            "last_commit": "2026-08-21T21:58:56Z",
+            "last_commit": "2026-08-28T13:59:26Z",
             "owner": "octodns",
             "repo": "octodns",
-            "stars": 3748
-          }
+            "stars": 3750
+          },
+          "first_seen": "2026-08-29T01:11:13.943Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "dnsjava",
             "repo": "dnsjava",
             "stars": 1077
-          }
+          },
+          "first_seen": "2026-08-29T01:11:13.943Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "Netflix",
             "repo": "denominator",
             "stars": 581
-          }
+          },
+          "first_seen": "2026-08-29T01:11:13.943Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "zonemaster",
             "repo": "zonemaster",
             "stars": 537
-          }
+          },
+          "first_seen": "2026-08-29T01:11:13.943Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "atomia",
             "repo": "atomiadns",
             "stars": 368
-          }
+          },
+          "first_seen": "2026-08-29T01:11:13.943Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "opendnssec",
             "repo": "opendnssec",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-29T01:11:13.943Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "dotse",
             "repo": "dnssec-monitor",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T01:11:13.943Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "msimerson",
             "repo": "NicTool",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:11:13.943Z"
         }
       ],
       "title": "Relevant Projects"
@@ -282,8 +299,9 @@
             "last_commit": "2019-02-05T07:34:59Z",
             "owner": "appsecco",
             "repo": "bugcrowd-levelup-subdomain-enumeration",
-            "stars": 633
-          }
+            "stars": 632
+          },
+          "first_seen": "2026-08-29T01:11:13.943Z"
         },
         {
           "children": [
@@ -300,7 +318,8 @@
                 "owner": "opendnssec",
                 "repo": "odslab",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:11:13.943Z"
             }
           ],
           "description": null,
@@ -312,7 +331,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:47:00.506Z",
+    "last_updated": "2026-08-29T01:11:13.943Z",
     "original_repository_info": {
       "archived": false,
       "id": 162639991,
