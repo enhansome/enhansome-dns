@@ -15,11 +15,11 @@
             "id": 54230994,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T00:39:42Z",
-            "open_issues": 299,
+            "last_commit": "2026-09-07T02:40:08Z",
+            "open_issues": 295,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14296,
+            "stars": 14299,
             "topics": [
               "cncf",
               "coredns",
@@ -43,11 +43,11 @@
             "id": 9693534,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-04T09:57:15Z",
-            "open_issues": 931,
+            "last_commit": "2026-09-07T16:44:40Z",
+            "open_issues": 925,
             "owner": "PowerDNS",
             "repo": "pdns",
-            "stars": 4461,
+            "stars": 4463,
             "topics": [
               "authoritative",
               "dns",
@@ -77,7 +77,7 @@
             "open_issues": 6,
             "owner": "tenta-browser",
             "repo": "tenta-dns",
-            "stars": 1600,
+            "stars": 1601,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
@@ -119,7 +119,7 @@
             "open_issues": 74,
             "owner": "NLnetLabs",
             "repo": "nsd",
-            "stars": 570,
+            "stars": 571,
             "topics": [
               "authoritative",
               "dns",
@@ -224,7 +224,7 @@
             "open_issues": 79,
             "owner": "ogham",
             "repo": "dog",
-            "stars": 6692,
+            "stars": 6693,
             "topics": [
               "client",
               "command-line",
@@ -284,7 +284,7 @@
             "open_issues": 5,
             "owner": "octodns",
             "repo": "octodns",
-            "stars": 3755,
+            "stars": 3756,
             "topics": [
               "dns",
               "infrastructure-as-code",
@@ -356,7 +356,7 @@
             "language": "Perl",
             "license": "NOASSERTION",
             "last_commit": "2026-07-22T12:15:26Z",
-            "open_issues": 147,
+            "open_issues": 149,
             "owner": "zonemaster",
             "repo": "zonemaster",
             "stars": 538,
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T19:34:30.479Z",
+    "last_updated": "2026-09-07T20:47:32.217Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
