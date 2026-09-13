@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-12T14:04:41Z",
-            "open_issues": 283,
+            "open_issues": 287,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14306,
+            "stars": 14311,
             "topics": [
               "cncf",
               "coredns",
@@ -47,7 +47,7 @@
             "open_issues": 918,
             "owner": "PowerDNS",
             "repo": "pdns",
-            "stars": 4465,
+            "stars": 4466,
             "topics": [
               "authoritative",
               "dns",
@@ -224,7 +224,7 @@
             "open_issues": 79,
             "owner": "ogham",
             "repo": "dog",
-            "stars": 6691,
+            "stars": 6692,
             "topics": [
               "client",
               "command-line",
@@ -284,7 +284,7 @@
             "open_issues": 3,
             "owner": "octodns",
             "repo": "octodns",
-            "stars": 3759,
+            "stars": 3760,
             "topics": [
               "dns",
               "infrastructure-as-code",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T19:38:56.983Z",
+    "last_updated": "2026-09-13T19:51:44.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
