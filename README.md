@@ -19,11 +19,11 @@
 
 # Authoritative Nameservers
 
-* [coredns](https://github.com/coredns/coredns) ⭐ 14,313 | 🐛 285 | 🌐 Go | 📅 2026-09-14
-* [PowerDNS](https://github.com/PowerDNS/pdns) ⭐ 4,467 | 🐛 922 | 🌐 C++ | 📅 2026-09-14
+* [coredns](https://github.com/coredns/coredns) ⭐ 14,316 | 🐛 285 | 🌐 Go | 📅 2026-09-15
+* [PowerDNS](https://github.com/PowerDNS/pdns) ⭐ 4,467 | 🐛 920 | 🌐 C++ | 📅 2026-09-15
 * [tenta-dns](https://github.com/tenta-browser/tenta-dns) ⭐ 1,601 | 🐛 6 | 🌐 Go | 📅 2020-06-18
 * [robdns](https://github.com/robertdavidgraham/robdns) ⭐ 611 | 🐛 9 | 🌐 C | 📅 2015-12-09
-* [nsd](https://github.com/NLnetLabs/nsd) ⭐ 572 | 🐛 76 | 🌐 C | 📅 2026-09-10
+* [nsd](https://github.com/NLnetLabs/nsd) ⭐ 572 | 🐛 77 | 🌐 C | 📅 2026-09-15
 * [shaman](https://github.com/nanopack/shaman) ⭐ 455 | 🐛 9 | 🌐 Go | 📅 2020-04-29
 * [texnomic/securedns](https://github.com/Texnomic/SecureDNS) ⭐ 368 | 🐛 16 | 🌐 C# | 📅 2026-05-18
 * [Knot DNS](https://gitlab.labs.nic.cz/knot/knot-dns)
@@ -32,12 +32,12 @@
 
 # Relevant Projects
 
-* [dog](https://github.com/ogham/dog) ⭐ 6,692 | 🐛 79 | 🌐 Rust | 📅 2024-05-29
-* [dnstwist](https://github.com/elceef/dnstwist/) ⭐ 5,736 | 🐛 18 | 🌐 Python | 📅 2025-04-15
+* [dog](https://github.com/ogham/dog) ⭐ 6,693 | 🐛 78 | 🌐 Rust | 📅 2024-05-29
+* [dnstwist](https://github.com/elceef/dnstwist/) ⭐ 5,737 | 🐛 18 | 🌐 Python | 📅 2025-04-15
 * [octodns](https://github.com/github/octodns/) ⭐ 3,759 | 🐛 3 | 🌐 Python | 📅 2026-09-09
 * [dnsjava](https://github.com/dnsjava/dnsjava) ⭐ 1,080 | 🐛 19 | 🌐 Java | 📅 2026-08-30
 * [denominator](https://github.com/Netflix/denominator) ⚠️ Archived
-* [zonemaster](https://github.com/dotse/zonemaster/) ⭐ 538 | 🐛 153 | 🌐 Perl | 📅 2026-07-22
+* [zonemaster](https://github.com/dotse/zonemaster/) ⭐ 538 | 🐛 154 | 🌐 Perl | 📅 2026-07-22
 * [atomiadns](https://github.com/atomia/atomiadns) ⭐ 368 | 🐛 19 | 🌐 Perl | 📅 2024-09-05
 * [opendnssec](https://github.com/opendnssec/opendnssec) ⭐ 119 | 🐛 23 | 🌐 C | 📅 2025-07-02
 * [dnssec-monitor](https://github.com/dotse/dnssec-monitor) ⭐ 25 | 🐛 1 | 🌐 Perl | 📅 2018-12-16
@@ -264,4 +264,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
