@@ -15,11 +15,11 @@
             "id": 54230994,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T07:42:44Z",
-            "open_issues": 285,
+            "last_commit": "2026-09-16T13:38:32Z",
+            "open_issues": 290,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14316,
+            "stars": 14321,
             "topics": [
               "cncf",
               "coredns",
@@ -47,7 +47,7 @@
             "open_issues": 920,
             "owner": "PowerDNS",
             "repo": "pdns",
-            "stars": 4467,
+            "stars": 4468,
             "topics": [
               "authoritative",
               "dns",
@@ -115,8 +115,8 @@
             "id": 94198614,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-15T12:32:55Z",
-            "open_issues": 77,
+            "last_commit": "2026-09-16T13:39:51Z",
+            "open_issues": 76,
             "owner": "NLnetLabs",
             "repo": "nsd",
             "stars": 572,
@@ -250,7 +250,7 @@
             "open_issues": 18,
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5737,
+            "stars": 5738,
             "topics": [
               "dns",
               "domains",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T20:28:43.895Z",
+    "last_updated": "2026-09-16T20:27:05.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
