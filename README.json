@@ -15,11 +15,11 @@
             "id": 54230994,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T13:38:32Z",
-            "open_issues": 290,
+            "last_commit": "2026-09-17T02:08:04Z",
+            "open_issues": 280,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14321,
+            "stars": 14325,
             "topics": [
               "cncf",
               "coredns",
@@ -44,7 +44,7 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-09-15T11:50:11Z",
-            "open_issues": 920,
+            "open_issues": 925,
             "owner": "PowerDNS",
             "repo": "pdns",
             "stars": 4468,
@@ -115,8 +115,8 @@
             "id": 94198614,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-16T13:39:51Z",
-            "open_issues": 76,
+            "last_commit": "2026-09-17T12:14:28Z",
+            "open_issues": 77,
             "owner": "NLnetLabs",
             "repo": "nsd",
             "stars": 572,
@@ -224,7 +224,7 @@
             "open_issues": 78,
             "owner": "ogham",
             "repo": "dog",
-            "stars": 6693,
+            "stars": 6694,
             "topics": [
               "client",
               "command-line",
@@ -250,7 +250,7 @@
             "open_issues": 18,
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5738,
+            "stars": 5737,
             "topics": [
               "dns",
               "domains",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T20:27:05.736Z",
+    "last_updated": "2026-09-17T20:35:05.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
