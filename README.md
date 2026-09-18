@@ -19,8 +19,8 @@
 
 # Authoritative Nameservers
 
-* [coredns](https://github.com/coredns/coredns) ⭐ 14,325 | 🐛 280 | 🌐 Go | 📅 2026-09-17
-* [PowerDNS](https://github.com/PowerDNS/pdns) ⭐ 4,468 | 🐛 925 | 🌐 C++ | 📅 2026-09-15
+* [coredns](https://github.com/coredns/coredns) ⭐ 14,329 | 🐛 282 | 🌐 Go | 📅 2026-09-17
+* [PowerDNS](https://github.com/PowerDNS/pdns) ⭐ 4,469 | 🐛 922 | 🌐 C++ | 📅 2026-09-18
 * [tenta-dns](https://github.com/tenta-browser/tenta-dns) ⭐ 1,601 | 🐛 6 | 🌐 Go | 📅 2020-06-18
 * [robdns](https://github.com/robertdavidgraham/robdns) ⭐ 611 | 🐛 9 | 🌐 C | 📅 2015-12-09
 * [nsd](https://github.com/NLnetLabs/nsd) ⭐ 572 | 🐛 77 | 🌐 C | 📅 2026-09-17
@@ -32,12 +32,12 @@
 
 # Relevant Projects
 
-* [dog](https://github.com/ogham/dog) ⭐ 6,694 | 🐛 78 | 🌐 Rust | 📅 2024-05-29
-* [dnstwist](https://github.com/elceef/dnstwist/) ⭐ 5,737 | 🐛 18 | 🌐 Python | 📅 2025-04-15
+* [dog](https://github.com/ogham/dog) ⭐ 6,692 | 🐛 78 | 🌐 Rust | 📅 2024-05-29
+* [dnstwist](https://github.com/elceef/dnstwist/) ⭐ 5,739 | 🐛 18 | 🌐 Python | 📅 2025-04-15
 * [octodns](https://github.com/github/octodns/) ⭐ 3,759 | 🐛 3 | 🌐 Python | 📅 2026-09-09
-* [dnsjava](https://github.com/dnsjava/dnsjava) ⭐ 1,080 | 🐛 19 | 🌐 Java | 📅 2026-08-30
+* [dnsjava](https://github.com/dnsjava/dnsjava) ⭐ 1,080 | 🐛 21 | 🌐 Java | 📅 2026-09-18
 * [denominator](https://github.com/Netflix/denominator) ⚠️ Archived
-* [zonemaster](https://github.com/dotse/zonemaster/) ⭐ 538 | 🐛 154 | 🌐 Perl | 📅 2026-07-22
+* [zonemaster](https://github.com/dotse/zonemaster/) ⭐ 538 | 🐛 155 | 🌐 Perl | 📅 2026-07-22
 * [atomiadns](https://github.com/atomia/atomiadns) ⭐ 368 | 🐛 19 | 🌐 Perl | 📅 2024-09-05
 * [opendnssec](https://github.com/opendnssec/opendnssec) ⭐ 119 | 🐛 23 | 🌐 C | 📅 2025-07-02
 * [dnssec-monitor](https://github.com/dotse/dnssec-monitor) ⭐ 25 | 🐛 1 | 🌐 Perl | 📅 2018-12-16
@@ -264,4 +264,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
