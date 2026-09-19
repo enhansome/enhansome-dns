@@ -19,8 +19,8 @@
 
 # Authoritative Nameservers
 
-* [coredns](https://github.com/coredns/coredns) ⭐ 14,329 | 🐛 282 | 🌐 Go | 📅 2026-09-17
-* [PowerDNS](https://github.com/PowerDNS/pdns) ⭐ 4,469 | 🐛 922 | 🌐 C++ | 📅 2026-09-18
+* [coredns](https://github.com/coredns/coredns) ⭐ 14,330 | 🐛 279 | 🌐 Go | 📅 2026-09-18
+* [PowerDNS](https://github.com/PowerDNS/pdns) ⭐ 4,470 | 🐛 922 | 🌐 C++ | 📅 2026-09-18
 * [tenta-dns](https://github.com/tenta-browser/tenta-dns) ⭐ 1,601 | 🐛 6 | 🌐 Go | 📅 2020-06-18
 * [robdns](https://github.com/robertdavidgraham/robdns) ⭐ 611 | 🐛 9 | 🌐 C | 📅 2015-12-09
 * [nsd](https://github.com/NLnetLabs/nsd) ⭐ 572 | 🐛 77 | 🌐 C | 📅 2026-09-17
@@ -264,4 +264,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
