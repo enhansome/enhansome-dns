@@ -19,8 +19,8 @@
 
 # Authoritative Nameservers
 
-* [coredns](https://github.com/coredns/coredns) ⭐ 14,331 | 🐛 278 | 🌐 Go | 📅 2026-09-20
-* [PowerDNS](https://github.com/PowerDNS/pdns) ⭐ 4,470 | 🐛 922 | 🌐 C++ | 📅 2026-09-18
+* [coredns](https://github.com/coredns/coredns) ⭐ 14,335 | 🐛 276 | 🌐 Go | 📅 2026-09-21
+* [PowerDNS](https://github.com/PowerDNS/pdns) ⭐ 4,473 | 🐛 925 | 🌐 C++ | 📅 2026-09-18
 * [tenta-dns](https://github.com/tenta-browser/tenta-dns) ⭐ 1,601 | 🐛 6 | 🌐 Go | 📅 2020-06-18
 * [robdns](https://github.com/robertdavidgraham/robdns) ⭐ 611 | 🐛 9 | 🌐 C | 📅 2015-12-09
 * [nsd](https://github.com/NLnetLabs/nsd) ⭐ 572 | 🐛 77 | 🌐 C | 📅 2026-09-17
@@ -33,8 +33,8 @@
 # Relevant Projects
 
 * [dog](https://github.com/ogham/dog) ⭐ 6,692 | 🐛 78 | 🌐 Rust | 📅 2024-05-29
-* [dnstwist](https://github.com/elceef/dnstwist/) ⭐ 5,740 | 🐛 18 | 🌐 Python | 📅 2025-04-15
-* [octodns](https://github.com/github/octodns/) ⭐ 3,761 | 🐛 3 | 🌐 Python | 📅 2026-09-09
+* [dnstwist](https://github.com/elceef/dnstwist/) ⭐ 5,741 | 🐛 18 | 🌐 Python | 📅 2025-04-15
+* [octodns](https://github.com/github/octodns/) ⭐ 3,763 | 🐛 3 | 🌐 Python | 📅 2026-09-09
 * [dnsjava](https://github.com/dnsjava/dnsjava) ⭐ 1,081 | 🐛 21 | 🌐 Java | 📅 2026-09-18
 * [denominator](https://github.com/Netflix/denominator) ⚠️ Archived
 * [zonemaster](https://github.com/dotse/zonemaster/) ⭐ 538 | 🐛 155 | 🌐 Perl | 📅 2026-07-22
@@ -81,7 +81,7 @@
 
 # Security
 
-* [Esoteric sub-domain enumeration techniques](https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration) ⭐ 631 | 🐛 2 | 🌐 Python | 📅 2019-02-05
+* [Esoteric sub-domain enumeration techniques](https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration) ⭐ 632 | 🐛 2 | 🌐 Python | 📅 2019-02-05
 * [DomainChroma: Building actionable threat intelligence from malicious domain names](https://www.sciencedirect.com/science/article/pii/S0167404818302967)
 * [The Modality of Mortality in Domain Names](https://www.farsightsecurity.com/assets/media/download/VB2018-study.pdf)
 * [OpenBSD as an authoritative DNS nameserver](https://cryogenix.net/openbsd_nameserver.html)
@@ -264,4 +264,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._

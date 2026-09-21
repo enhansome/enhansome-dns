@@ -15,11 +15,11 @@
             "id": 54230994,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T04:37:34Z",
-            "open_issues": 278,
+            "last_commit": "2026-09-21T19:49:38Z",
+            "open_issues": 276,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14331,
+            "stars": 14335,
             "topics": [
               "cncf",
               "coredns",
@@ -44,10 +44,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-09-18T19:01:00Z",
-            "open_issues": 922,
+            "open_issues": 925,
             "owner": "PowerDNS",
             "repo": "pdns",
-            "stars": 4470,
+            "stars": 4473,
             "topics": [
               "authoritative",
               "dns",
@@ -250,7 +250,7 @@
             "open_issues": 18,
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5740,
+            "stars": 5741,
             "topics": [
               "dns",
               "domains",
@@ -284,7 +284,7 @@
             "open_issues": 3,
             "owner": "octodns",
             "repo": "octodns",
-            "stars": 3761,
+            "stars": 3763,
             "topics": [
               "dns",
               "infrastructure-as-code",
@@ -473,7 +473,7 @@
             "open_issues": 2,
             "owner": "appsecco",
             "repo": "bugcrowd-levelup-subdomain-enumeration",
-            "stars": 631,
+            "stars": 632,
             "topics": [
               "bugcrowd",
               "censys",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T19:48:44.965Z",
+    "last_updated": "2026-09-21T21:15:06.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
