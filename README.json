@@ -47,7 +47,7 @@
             "open_issues": 922,
             "owner": "PowerDNS",
             "repo": "pdns",
-            "stars": 4473,
+            "stars": 4474,
             "topics": [
               "authoritative",
               "dns",
@@ -115,7 +115,7 @@
             "id": 94198614,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-22T13:25:10Z",
+            "last_commit": "2026-09-26T09:33:06Z",
             "open_issues": 78,
             "owner": "NLnetLabs",
             "repo": "nsd",
@@ -250,7 +250,7 @@
             "open_issues": 18,
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5742,
+            "stars": 5741,
             "topics": [
               "dns",
               "domains",
@@ -280,11 +280,11 @@
             "id": 84977146,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-09T22:16:26Z",
+            "last_commit": "2026-09-26T17:14:28Z",
             "open_issues": 3,
             "owner": "octodns",
             "repo": "octodns",
-            "stars": 3767,
+            "stars": 3768,
             "topics": [
               "dns",
               "infrastructure-as-code",
@@ -305,8 +305,8 @@
             "id": 17084567,
             "language": "Java",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-18T18:38:04Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-26T12:18:54Z",
+            "open_issues": 19,
             "owner": "dnsjava",
             "repo": "dnsjava",
             "stars": 1081,
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:45:53.640Z",
+    "last_updated": "2026-09-26T20:10:33.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
