@@ -19,11 +19,11 @@
 
 # Authoritative Nameservers
 
-* [coredns](https://github.com/coredns/coredns) ⭐ 14,349 | 🐛 272 | 🌐 Go | 📅 2026-09-29
-* [PowerDNS](https://github.com/PowerDNS/pdns) ⭐ 4,482 | 🐛 942 | 🌐 C++ | 📅 2026-09-29
+* [coredns](https://github.com/coredns/coredns) ⭐ 14,350 | 🐛 273 | 🌐 Go | 📅 2026-09-30
+* [PowerDNS](https://github.com/PowerDNS/pdns) ⭐ 4,482 | 🐛 942 | 🌐 C++ | 📅 2026-09-30
 * [tenta-dns](https://github.com/tenta-browser/tenta-dns) ⭐ 1,601 | 🐛 6 | 🌐 Go | 📅 2020-06-18
 * [robdns](https://github.com/robertdavidgraham/robdns) ⭐ 611 | 🐛 9 | 🌐 C | 📅 2015-12-09
-* [nsd](https://github.com/NLnetLabs/nsd) ⭐ 572 | 🐛 79 | 🌐 C | 📅 2026-09-26
+* [nsd](https://github.com/NLnetLabs/nsd) ⭐ 572 | 🐛 80 | 🌐 C | 📅 2026-09-30
 * [shaman](https://github.com/nanopack/shaman) ⭐ 455 | 🐛 9 | 🌐 Go | 📅 2020-04-29
 * [texnomic/securedns](https://github.com/Texnomic/SecureDNS) ⭐ 368 | 🐛 16 | 🌐 C# | 📅 2026-05-18
 * [Knot DNS](https://gitlab.labs.nic.cz/knot/knot-dns)
@@ -32,12 +32,12 @@
 
 # Relevant Projects
 
-* [dog](https://github.com/ogham/dog) ⭐ 6,693 | 🐛 78 | 🌐 Rust | 📅 2024-05-29
-* [dnstwist](https://github.com/elceef/dnstwist/) ⭐ 5,741 | 🐛 18 | 🌐 Python | 📅 2025-04-15
+* [dog](https://github.com/ogham/dog) ⭐ 6,692 | 🐛 78 | 🌐 Rust | 📅 2024-05-29
+* [dnstwist](https://github.com/elceef/dnstwist/) ⭐ 5,742 | 🐛 18 | 🌐 Python | 📅 2025-04-15
 * [octodns](https://github.com/github/octodns/) ⭐ 3,769 | 🐛 3 | 🌐 Python | 📅 2026-09-26
-* [dnsjava](https://github.com/dnsjava/dnsjava) ⭐ 1,082 | 🐛 19 | 🌐 Java | 📅 2026-09-26
+* [dnsjava](https://github.com/dnsjava/dnsjava) ⭐ 1,082 | 🐛 20 | 🌐 Java | 📅 2026-09-26
 * [denominator](https://github.com/Netflix/denominator) ⚠️ Archived
-* [zonemaster](https://github.com/dotse/zonemaster/) ⭐ 539 | 🐛 148 | 🌐 Perl | 📅 2026-09-25
+* [zonemaster](https://github.com/dotse/zonemaster/) ⭐ 539 | 🐛 149 | 🌐 Perl | 📅 2026-09-25
 * [atomiadns](https://github.com/atomia/atomiadns) ⭐ 368 | 🐛 19 | 🌐 Perl | 📅 2024-09-05
 * [opendnssec](https://github.com/opendnssec/opendnssec) ⭐ 119 | 🐛 23 | 🌐 C | 📅 2025-07-02
 * [dnssec-monitor](https://github.com/dotse/dnssec-monitor) ⭐ 25 | 🐛 1 | 🌐 Perl | 📅 2018-12-16
@@ -264,4 +264,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
