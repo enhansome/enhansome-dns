@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T14:00:42Z",
-            "open_issues": 274,
+            "open_issues": 276,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14353,
+            "stars": 14354,
             "topics": [
               "cncf",
               "coredns",
@@ -43,11 +43,11 @@
             "id": 9693534,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-01T19:30:45Z",
-            "open_issues": 938,
+            "last_commit": "2026-10-02T21:26:37Z",
+            "open_issues": 924,
             "owner": "PowerDNS",
             "repo": "pdns",
-            "stars": 4482,
+            "stars": 4483,
             "topics": [
               "authoritative",
               "dns",
@@ -115,7 +115,7 @@
             "id": 94198614,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-30T14:09:06Z",
+            "last_commit": "2026-10-02T09:53:04Z",
             "open_issues": 81,
             "owner": "NLnetLabs",
             "repo": "nsd",
@@ -250,7 +250,7 @@
             "open_issues": 18,
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5743,
+            "stars": 5744,
             "topics": [
               "dns",
               "domains",
@@ -284,7 +284,7 @@
             "open_issues": 3,
             "owner": "octodns",
             "repo": "octodns",
-            "stars": 3768,
+            "stars": 3769,
             "topics": [
               "dns",
               "infrastructure-as-code",
@@ -355,8 +355,8 @@
             "id": 12428636,
             "language": "Perl",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T15:00:33Z",
-            "open_issues": 148,
+            "last_commit": "2026-10-02T13:26:31Z",
+            "open_issues": 145,
             "owner": "zonemaster",
             "repo": "zonemaster",
             "stars": 539,
@@ -383,7 +383,7 @@
             "open_issues": 19,
             "owner": "atomia",
             "repo": "atomiadns",
-            "stars": 368,
+            "stars": 367,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T22:00:47.563Z",
+    "last_updated": "2026-10-02T21:27:08.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
