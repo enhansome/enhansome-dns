@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "coredns",
-          "description": null,
+          "description": "coredns/coredns",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 276,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14354,
+            "stars": 14355,
             "topics": [
               "cncf",
               "coredns",
@@ -34,7 +34,7 @@
         {
           "node_type": "item",
           "title": "PowerDNS",
-          "description": null,
+          "description": "PowerDNS/pdns",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -43,8 +43,8 @@
             "id": 9693534,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-02T21:26:37Z",
-            "open_issues": 924,
+            "last_commit": "2026-10-02T21:32:32Z",
+            "open_issues": 923,
             "owner": "PowerDNS",
             "repo": "pdns",
             "stars": 4483,
@@ -64,7 +64,7 @@
         {
           "node_type": "item",
           "title": "tenta-dns",
-          "description": null,
+          "description": "tenta-browser/tenta-dns",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -85,7 +85,7 @@
         {
           "node_type": "item",
           "title": "robdns",
-          "description": null,
+          "description": "robertdavidgraham/robdns",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -106,7 +106,7 @@
         {
           "node_type": "item",
           "title": "nsd",
-          "description": null,
+          "description": "NLnetLabs/nsd",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -132,7 +132,7 @@
         {
           "node_type": "item",
           "title": "shaman",
-          "description": null,
+          "description": "nanopack/shaman",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -163,7 +163,7 @@
         {
           "node_type": "item",
           "title": "texnomic/securedns",
-          "description": null,
+          "description": "Texnomic/SecureDNS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -211,7 +211,7 @@
         {
           "node_type": "item",
           "title": "dog",
-          "description": null,
+          "description": "ogham/dog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -224,7 +224,7 @@
             "open_issues": 78,
             "owner": "ogham",
             "repo": "dog",
-            "stars": 6692,
+            "stars": 6693,
             "topics": [
               "client",
               "command-line",
@@ -237,7 +237,7 @@
         {
           "node_type": "item",
           "title": "dnstwist",
-          "description": null,
+          "description": "elceef/dnstwist",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -271,7 +271,7 @@
         {
           "node_type": "item",
           "title": "octodns",
-          "description": null,
+          "description": "octodns/octodns",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -296,7 +296,7 @@
         {
           "node_type": "item",
           "title": "dnsjava",
-          "description": null,
+          "description": "dnsjava/dnsjava",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -306,7 +306,7 @@
             "language": "Java",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-26T12:18:54Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "dnsjava",
             "repo": "dnsjava",
             "stars": 1082,
@@ -325,7 +325,7 @@
         {
           "node_type": "item",
           "title": "denominator",
-          "description": null,
+          "description": "Netflix/denominator",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -346,7 +346,7 @@
         {
           "node_type": "item",
           "title": "zonemaster",
-          "description": null,
+          "description": "zonemaster/zonemaster",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -370,7 +370,7 @@
         {
           "node_type": "item",
           "title": "atomiadns",
-          "description": null,
+          "description": "atomia/atomiadns",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -391,7 +391,7 @@
         {
           "node_type": "item",
           "title": "opendnssec",
-          "description": null,
+          "description": "opendnssec/opendnssec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -412,7 +412,7 @@
         {
           "node_type": "item",
           "title": "dnssec-monitor",
-          "description": null,
+          "description": "dotse/dnssec-monitor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -433,7 +433,7 @@
         {
           "node_type": "item",
           "title": "NicTool",
-          "description": null,
+          "description": "msimerson/NicTool",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -460,7 +460,7 @@
         {
           "node_type": "item",
           "title": "Esoteric sub-domain enumeration techniques",
-          "description": null,
+          "description": "appsecco/bugcrowd-levelup-subdomain-enumeration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -498,7 +498,7 @@
             {
               "node_type": "item",
               "title": "OpenDNSSEC Lab & Training",
-              "description": null,
+              "description": "opendnssec/odslab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:27:08.858Z",
+    "last_updated": "2026-10-03T04:40:13.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
