@@ -19,11 +19,11 @@
 
 # Authoritative Nameservers
 
-* [coredns](https://github.com/coredns/coredns) ⭐ 14,357 | 🐛 274 | 🌐 Go | 📅 2026-10-04
-* [PowerDNS](https://github.com/PowerDNS/pdns) ⭐ 4,483 | 🐛 922 | 🌐 C++ | 📅 2026-10-04
+* [coredns](https://github.com/coredns/coredns) ⭐ 14,357 | 🐛 273 | 🌐 Go | 📅 2026-10-05
+* [PowerDNS](https://github.com/PowerDNS/pdns) ⭐ 4,485 | 🐛 920 | 🌐 C++ | 📅 2026-10-05
 * [tenta-dns](https://github.com/tenta-browser/tenta-dns) ⭐ 1,601 | 🐛 6 | 🌐 Go | 📅 2020-06-18
 * [robdns](https://github.com/robertdavidgraham/robdns) ⭐ 611 | 🐛 9 | 🌐 C | 📅 2015-12-09
-* [nsd](https://github.com/NLnetLabs/nsd) ⭐ 572 | 🐛 82 | 🌐 C | 📅 2026-10-02
+* [nsd](https://github.com/NLnetLabs/nsd) ⭐ 572 | 🐛 83 | 🌐 C | 📅 2026-10-02
 * [shaman](https://github.com/nanopack/shaman) ⭐ 455 | 🐛 9 | 🌐 Go | 📅 2020-04-29
 * [texnomic/securedns](https://github.com/Texnomic/SecureDNS) ⭐ 368 | 🐛 16 | 🌐 C# | 📅 2026-05-18
 * [Knot DNS](https://gitlab.labs.nic.cz/knot/knot-dns)
@@ -33,8 +33,8 @@
 # Relevant Projects
 
 * [dog](https://github.com/ogham/dog) ⭐ 6,693 | 🐛 78 | 🌐 Rust | 📅 2024-05-29
-* [dnstwist](https://github.com/elceef/dnstwist/) ⭐ 5,745 | 🐛 18 | 🌐 Python | 📅 2025-04-15
-* [octodns](https://github.com/github/octodns/) ⭐ 3,770 | 🐛 3 | 🌐 Python | 📅 2026-09-26
+* [dnstwist](https://github.com/elceef/dnstwist/) ⭐ 5,747 | 🐛 18 | 🌐 Python | 📅 2025-04-15
+* [octodns](https://github.com/github/octodns/) ⭐ 3,771 | 🐛 3 | 🌐 Python | 📅 2026-10-05
 * [dnsjava](https://github.com/dnsjava/dnsjava) ⭐ 1,083 | 🐛 20 | 🌐 Java | 📅 2026-10-03
 * [denominator](https://github.com/Netflix/denominator) ⚠️ Archived
 * [zonemaster](https://github.com/dotse/zonemaster/) ⭐ 539 | 🐛 147 | 🌐 Perl | 📅 2026-10-02
@@ -264,4 +264,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
