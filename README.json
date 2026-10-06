@@ -19,7 +19,7 @@
             "open_issues": 273,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14358,
+            "stars": 14361,
             "topics": [
               "cncf",
               "coredns",
@@ -43,8 +43,8 @@
             "id": 9693534,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-06T10:38:47Z",
-            "open_issues": 921,
+            "last_commit": "2026-10-06T14:59:39Z",
+            "open_issues": 919,
             "owner": "PowerDNS",
             "repo": "pdns",
             "stars": 4487,
@@ -77,7 +77,7 @@
             "open_issues": 6,
             "owner": "tenta-browser",
             "repo": "tenta-dns",
-            "stars": 1601,
+            "stars": 1600,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
@@ -250,7 +250,7 @@
             "open_issues": 18,
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5749,
+            "stars": 5750,
             "topics": [
               "dns",
               "domains",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:09:51.944Z",
+    "last_updated": "2026-10-06T21:54:30.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
