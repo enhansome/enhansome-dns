@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T08:28:35Z",
-            "open_issues": 276,
+            "open_issues": 277,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14364,
+            "stars": 14365,
             "topics": [
               "cncf",
               "coredns",
@@ -44,10 +44,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-10-09T14:07:04Z",
-            "open_issues": 919,
+            "open_issues": 920,
             "owner": "PowerDNS",
             "repo": "pdns",
-            "stars": 4492,
+            "stars": 4494,
             "topics": [
               "authoritative",
               "dns",
@@ -116,7 +116,7 @@
             "language": "C",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-09T06:44:36Z",
-            "open_issues": 84,
+            "open_issues": 83,
             "owner": "NLnetLabs",
             "repo": "nsd",
             "stars": 573,
@@ -250,7 +250,7 @@
             "open_issues": 18,
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5753,
+            "stars": 5754,
             "topics": [
               "dns",
               "domains",
@@ -280,8 +280,8 @@
             "id": 84977146,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-09T20:08:45Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-10T15:09:07Z",
+            "open_issues": 4,
             "owner": "octodns",
             "repo": "octodns",
             "stars": 3772,
@@ -309,7 +309,7 @@
             "open_issues": 20,
             "owner": "dnsjava",
             "repo": "dnsjava",
-            "stars": 1084,
+            "stars": 1085,
             "topics": [
               "dns",
               "dnsjava",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:53:05.651Z",
+    "last_updated": "2026-10-10T20:43:15.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
