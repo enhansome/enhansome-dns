@@ -15,11 +15,11 @@
             "id": 54230994,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T02:29:41Z",
-            "open_issues": 281,
+            "last_commit": "2026-10-16T21:06:29Z",
+            "open_issues": 283,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14373,
+            "stars": 14376,
             "topics": [
               "cncf",
               "coredns",
@@ -116,7 +116,7 @@
             "language": "C",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-14T12:55:04Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "NLnetLabs",
             "repo": "nsd",
             "stars": 572,
@@ -224,7 +224,7 @@
             "open_issues": 78,
             "owner": "ogham",
             "repo": "dog",
-            "stars": 6695,
+            "stars": 6693,
             "topics": [
               "client",
               "command-line",
@@ -250,7 +250,7 @@
             "open_issues": 20,
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5760,
+            "stars": 5762,
             "topics": [
               "dns",
               "domains",
@@ -281,7 +281,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-14T00:19:22Z",
-            "open_issues": 4,
+            "open_issues": 6,
             "owner": "octodns",
             "repo": "octodns",
             "stars": 3773,
@@ -309,7 +309,7 @@
             "open_issues": 21,
             "owner": "dnsjava",
             "repo": "dnsjava",
-            "stars": 1086,
+            "stars": 1087,
             "topics": [
               "dns",
               "dnsjava",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T20:06:54.940Z",
+    "last_updated": "2026-10-17T19:43:42.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
