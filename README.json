@@ -15,11 +15,11 @@
             "id": 54230994,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T21:06:29Z",
-            "open_issues": 283,
+            "last_commit": "2026-10-18T07:04:03Z",
+            "open_issues": 289,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14376,
+            "stars": 14382,
             "topics": [
               "cncf",
               "coredns",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T19:43:42.808Z",
+    "last_updated": "2026-10-18T19:42:11.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
