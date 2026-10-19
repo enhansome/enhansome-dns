@@ -15,11 +15,11 @@
             "id": 54230994,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-18T07:04:03Z",
-            "open_issues": 289,
+            "last_commit": "2026-10-19T10:54:16Z",
+            "open_issues": 295,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14382,
+            "stars": 14388,
             "topics": [
               "cncf",
               "coredns",
@@ -43,11 +43,11 @@
             "id": 9693534,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-15T16:58:56Z",
-            "open_issues": 928,
+            "last_commit": "2026-10-19T14:23:50Z",
+            "open_issues": 927,
             "owner": "PowerDNS",
             "repo": "pdns",
-            "stars": 4498,
+            "stars": 4500,
             "topics": [
               "authoritative",
               "dns",
@@ -250,7 +250,7 @@
             "open_issues": 20,
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5762,
+            "stars": 5760,
             "topics": [
               "dns",
               "domains",
@@ -280,11 +280,11 @@
             "id": 84977146,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-14T00:19:22Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-19T20:10:06Z",
+            "open_issues": 4,
             "owner": "octodns",
             "repo": "octodns",
-            "stars": 3773,
+            "stars": 3774,
             "topics": [
               "dns",
               "infrastructure-as-code",
@@ -359,7 +359,7 @@
             "open_issues": 150,
             "owner": "zonemaster",
             "repo": "zonemaster",
-            "stars": 541,
+            "stars": 543,
             "topics": [
               "dns",
               "dnssec"
@@ -404,7 +404,7 @@
             "open_issues": 23,
             "owner": "opendnssec",
             "repo": "opendnssec",
-            "stars": 119,
+            "stars": 118,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T19:42:11.164Z",
+    "last_updated": "2026-10-19T21:45:18.739Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
