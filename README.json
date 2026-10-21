@@ -15,11 +15,11 @@
             "id": 54230994,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T01:29:35Z",
-            "open_issues": 295,
+            "last_commit": "2026-10-21T15:46:30Z",
+            "open_issues": 292,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14387,
+            "stars": 14391,
             "topics": [
               "cncf",
               "coredns",
@@ -43,8 +43,8 @@
             "id": 9693534,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-20T09:58:27Z",
-            "open_issues": 925,
+            "last_commit": "2026-10-21T14:39:18Z",
+            "open_issues": 928,
             "owner": "PowerDNS",
             "repo": "pdns",
             "stars": 4500,
@@ -98,7 +98,7 @@
             "open_issues": 9,
             "owner": "robertdavidgraham",
             "repo": "robdns",
-            "stars": 611,
+            "stars": 610,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
@@ -115,11 +115,11 @@
             "id": 94198614,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-14T12:55:04Z",
+            "last_commit": "2026-10-21T08:43:57Z",
             "open_issues": 82,
             "owner": "NLnetLabs",
             "repo": "nsd",
-            "stars": 572,
+            "stars": 573,
             "topics": [
               "authoritative",
               "dns",
@@ -176,7 +176,7 @@
             "open_issues": 16,
             "owner": "Texnomic",
             "repo": "SecureDNS",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "blazor",
               "blockchain",
@@ -250,7 +250,7 @@
             "open_issues": 20,
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5761,
+            "stars": 5764,
             "topics": [
               "dns",
               "domains",
@@ -305,8 +305,8 @@
             "id": 17084567,
             "language": "Java",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-20T07:04:54Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-20T22:11:34Z",
+            "open_issues": 20,
             "owner": "dnsjava",
             "repo": "dnsjava",
             "stars": 1087,
@@ -359,7 +359,7 @@
             "open_issues": 150,
             "owner": "zonemaster",
             "repo": "zonemaster",
-            "stars": 543,
+            "stars": 544,
             "topics": [
               "dns",
               "dnssec"
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T20:54:39.420Z",
+    "last_updated": "2026-10-21T20:55:02.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
