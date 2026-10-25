@@ -15,8 +15,8 @@
             "id": 54230994,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T08:12:11Z",
-            "open_issues": 295,
+            "last_commit": "2026-10-25T13:44:12Z",
+            "open_issues": 297,
             "owner": "coredns",
             "repo": "coredns",
             "stars": 14395,
@@ -224,7 +224,7 @@
             "open_issues": 78,
             "owner": "ogham",
             "repo": "dog",
-            "stars": 6692,
+            "stars": 6690,
             "topics": [
               "client",
               "command-line",
@@ -250,7 +250,7 @@
             "open_issues": 20,
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5765,
+            "stars": 5767,
             "topics": [
               "dns",
               "domains",
@@ -305,7 +305,7 @@
             "id": 17084567,
             "language": "Java",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-24T10:17:17Z",
+            "last_commit": "2026-10-25T18:41:33Z",
             "open_issues": 20,
             "owner": "dnsjava",
             "repo": "dnsjava",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T19:50:48.330Z",
+    "last_updated": "2026-10-25T20:00:05.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
