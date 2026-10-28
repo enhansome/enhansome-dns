@@ -15,8 +15,8 @@
             "id": 54230994,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T08:22:37Z",
-            "open_issues": 303,
+            "last_commit": "2026-10-28T13:37:02Z",
+            "open_issues": 313,
             "owner": "coredns",
             "repo": "coredns",
             "stars": 14399,
@@ -43,11 +43,11 @@
             "id": 9693534,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-27T15:09:54Z",
-            "open_issues": 940,
+            "last_commit": "2026-10-28T15:53:13Z",
+            "open_issues": 929,
             "owner": "PowerDNS",
             "repo": "pdns",
-            "stars": 4504,
+            "stars": 4505,
             "topics": [
               "authoritative",
               "dns",
@@ -224,7 +224,7 @@
             "open_issues": 78,
             "owner": "ogham",
             "repo": "dog",
-            "stars": 6690,
+            "stars": 6692,
             "topics": [
               "client",
               "command-line",
@@ -305,7 +305,7 @@
             "id": 17084567,
             "language": "Java",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-25T21:57:08Z",
+            "last_commit": "2026-10-28T07:43:27Z",
             "open_issues": 20,
             "owner": "dnsjava",
             "repo": "dnsjava",
@@ -359,7 +359,7 @@
             "open_issues": 151,
             "owner": "zonemaster",
             "repo": "zonemaster",
-            "stars": 545,
+            "stars": 546,
             "topics": [
               "dns",
               "dnssec"
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T21:29:57.215Z",
+    "last_updated": "2026-10-28T21:54:49.022Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
