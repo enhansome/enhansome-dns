@@ -15,11 +15,11 @@
             "id": 54230994,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T14:04:48Z",
-            "open_issues": 296,
+            "last_commit": "2026-10-30T05:50:54Z",
+            "open_issues": 292,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14398,
+            "stars": 14400,
             "topics": [
               "cncf",
               "coredns",
@@ -44,7 +44,7 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-10-29T15:39:57Z",
-            "open_issues": 930,
+            "open_issues": 932,
             "owner": "PowerDNS",
             "repo": "pdns",
             "stars": 4505,
@@ -119,7 +119,7 @@
             "open_issues": 82,
             "owner": "NLnetLabs",
             "repo": "nsd",
-            "stars": 574,
+            "stars": 575,
             "topics": [
               "authoritative",
               "dns",
@@ -284,7 +284,7 @@
             "open_issues": 5,
             "owner": "octodns",
             "repo": "octodns",
-            "stars": 3773,
+            "stars": 3774,
             "topics": [
               "dns",
               "infrastructure-as-code",
@@ -383,7 +383,7 @@
             "open_issues": 19,
             "owner": "atomia",
             "repo": "atomiadns",
-            "stars": 367,
+            "stars": 368,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T22:01:43.075Z",
+    "last_updated": "2026-10-30T21:41:59.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
