@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T05:50:54Z",
-            "open_issues": 292,
+            "open_issues": 262,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14400,
+            "stars": 14402,
             "topics": [
               "cncf",
               "coredns",
@@ -221,7 +221,7 @@
             "language": "Rust",
             "license": "EUPL-1.2",
             "last_commit": "2024-05-29T11:36:13Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "ogham",
             "repo": "dog",
             "stars": 6692,
@@ -250,7 +250,7 @@
             "open_issues": 20,
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5768,
+            "stars": 5769,
             "topics": [
               "dns",
               "domains",
@@ -284,7 +284,7 @@
             "open_issues": 5,
             "owner": "octodns",
             "repo": "octodns",
-            "stars": 3774,
+            "stars": 3773,
             "topics": [
               "dns",
               "infrastructure-as-code",
@@ -305,8 +305,8 @@
             "id": 17084567,
             "language": "Java",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-29T07:29:59Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-30T23:37:33Z",
+            "open_issues": 19,
             "owner": "dnsjava",
             "repo": "dnsjava",
             "stars": 1088,
@@ -359,7 +359,7 @@
             "open_issues": 151,
             "owner": "zonemaster",
             "repo": "zonemaster",
-            "stars": 546,
+            "stars": 548,
             "topics": [
               "dns",
               "dnssec"
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:41:59.644Z",
+    "last_updated": "2026-10-31T20:41:39.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
