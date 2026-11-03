@@ -19,8 +19,8 @@
 
 # Authoritative Nameservers
 
-* [coredns](https://github.com/coredns/coredns) ⭐ 14,402 | 🐛 258 | 🌐 Go | 📅 2026-11-02
-* [PowerDNS](https://github.com/PowerDNS/pdns) ⭐ 4,510 | 🐛 931 | 🌐 C++ | 📅 2026-11-02
+* [coredns](https://github.com/coredns/coredns) ⭐ 14,407 | 🐛 257 | 🌐 Go | 📅 2026-11-03
+* [PowerDNS](https://github.com/PowerDNS/pdns) ⭐ 4,511 | 🐛 929 | 🌐 C++ | 📅 2026-11-03
 * [tenta-dns](https://github.com/tenta-browser/tenta-dns) ⭐ 1,600 | 🐛 6 | 🌐 Go | 📅 2020-06-18
 * [robdns](https://github.com/robertdavidgraham/robdns) ⭐ 609 | 🐛 9 | 🌐 C | 📅 2015-12-09
 * [nsd](https://github.com/NLnetLabs/nsd) ⭐ 575 | 🐛 82 | 🌐 C | 📅 2026-10-21
@@ -33,9 +33,9 @@
 # Relevant Projects
 
 * [dog](https://github.com/ogham/dog) ⭐ 6,691 | 🐛 79 | 🌐 Rust | 📅 2024-05-29
-* [dnstwist](https://github.com/elceef/dnstwist/) ⭐ 5,770 | 🐛 20 | 🌐 Python | 📅 2025-04-15
-* [octodns](https://github.com/github/octodns/) ⭐ 3,774 | 🐛 6 | 🌐 Python | 📅 2026-10-26
-* [dnsjava](https://github.com/dnsjava/dnsjava) ⭐ 1,089 | 🐛 21 | 🌐 Java | 📅 2026-11-01
+* [dnstwist](https://github.com/elceef/dnstwist/) ⭐ 5,772 | 🐛 20 | 🌐 Python | 📅 2025-04-15
+* [octodns](https://github.com/github/octodns/) ⭐ 3,775 | 🐛 6 | 🌐 Python | 📅 2026-10-26
+* [dnsjava](https://github.com/dnsjava/dnsjava) ⭐ 1,089 | 🐛 23 | 🌐 Java | 📅 2026-11-01
 * [denominator](https://github.com/Netflix/denominator) ⚠️ Archived
 * [zonemaster](https://github.com/dotse/zonemaster/) ⭐ 548 | 🐛 151 | 🌐 Perl | 📅 2026-10-08
 * [atomiadns](https://github.com/atomia/atomiadns) ⭐ 368 | 🐛 19 | 🌐 Perl | 📅 2024-09-05
@@ -81,7 +81,7 @@
 
 # Security
 
-* [Esoteric sub-domain enumeration techniques](https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration) ⭐ 633 | 🐛 2 | 🌐 Python | 📅 2019-02-05
+* [Esoteric sub-domain enumeration techniques](https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration) ⭐ 634 | 🐛 2 | 🌐 Python | 📅 2019-02-05
 * [DomainChroma: Building actionable threat intelligence from malicious domain names](https://www.sciencedirect.com/science/article/pii/S0167404818302967)
 * [The Modality of Mortality in Domain Names](https://www.farsightsecurity.com/assets/media/download/VB2018-study.pdf)
 * [OpenBSD as an authoritative DNS nameserver](https://cryogenix.net/openbsd_nameserver.html)

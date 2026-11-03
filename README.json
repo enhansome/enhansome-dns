@@ -15,11 +15,11 @@
             "id": 54230994,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T00:22:56Z",
-            "open_issues": 258,
+            "last_commit": "2026-11-03T19:40:10Z",
+            "open_issues": 257,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14402,
+            "stars": 14407,
             "topics": [
               "cncf",
               "coredns",
@@ -43,11 +43,11 @@
             "id": 9693534,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-02T16:33:54Z",
-            "open_issues": 931,
+            "last_commit": "2026-11-03T20:04:28Z",
+            "open_issues": 929,
             "owner": "PowerDNS",
             "repo": "pdns",
-            "stars": 4510,
+            "stars": 4511,
             "topics": [
               "authoritative",
               "dns",
@@ -250,7 +250,7 @@
             "open_issues": 20,
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5770,
+            "stars": 5772,
             "topics": [
               "dns",
               "domains",
@@ -284,7 +284,7 @@
             "open_issues": 6,
             "owner": "octodns",
             "repo": "octodns",
-            "stars": 3774,
+            "stars": 3775,
             "topics": [
               "dns",
               "infrastructure-as-code",
@@ -306,7 +306,7 @@
             "language": "Java",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-01T16:11:42Z",
-            "open_issues": 21,
+            "open_issues": 23,
             "owner": "dnsjava",
             "repo": "dnsjava",
             "stars": 1089,
@@ -473,7 +473,7 @@
             "open_issues": 2,
             "owner": "appsecco",
             "repo": "bugcrowd-levelup-subdomain-enumeration",
-            "stars": 633,
+            "stars": 634,
             "topics": [
               "bugcrowd",
               "censys",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T00:03:17.943Z",
+    "last_updated": "2026-11-03T22:33:48.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
