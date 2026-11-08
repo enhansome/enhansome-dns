@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-07T04:24:36Z",
-            "open_issues": 262,
+            "open_issues": 263,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14416,
+            "stars": 14417,
             "topics": [
               "cncf",
               "coredns",
@@ -43,11 +43,11 @@
             "id": 9693534,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-05T14:22:52Z",
-            "open_issues": 931,
+            "last_commit": "2026-11-08T20:20:41Z",
+            "open_issues": 929,
             "owner": "PowerDNS",
             "repo": "pdns",
-            "stars": 4514,
+            "stars": 4515,
             "topics": [
               "authoritative",
               "dns",
@@ -116,7 +116,7 @@
             "language": "C",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-06T20:49:16Z",
-            "open_issues": 82,
+            "open_issues": 81,
             "owner": "NLnetLabs",
             "repo": "nsd",
             "stars": 574,
@@ -224,7 +224,7 @@
             "open_issues": 79,
             "owner": "ogham",
             "repo": "dog",
-            "stars": 6690,
+            "stars": 6689,
             "topics": [
               "client",
               "command-line",
@@ -284,7 +284,7 @@
             "open_issues": 6,
             "owner": "octodns",
             "repo": "octodns",
-            "stars": 3776,
+            "stars": 3775,
             "topics": [
               "dns",
               "infrastructure-as-code",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T21:05:26.376Z",
+    "last_updated": "2026-11-08T21:23:04.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
