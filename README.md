@@ -19,11 +19,11 @@
 
 # Authoritative Nameservers
 
-* [coredns](https://github.com/coredns/coredns) ⭐ 14,424 | 🐛 264 | 🌐 Go | 📅 2026-11-11
-* [PowerDNS](https://github.com/PowerDNS/pdns) ⭐ 4,518 | 🐛 931 | 🌐 C++ | 📅 2026-11-11
+* [coredns](https://github.com/coredns/coredns) ⭐ 14,427 | 🐛 264 | 🌐 Go | 📅 2026-11-11
+* [PowerDNS](https://github.com/PowerDNS/pdns) ⭐ 4,520 | 🐛 926 | 🌐 C++ | 📅 2026-11-12
 * [tenta-dns](https://github.com/tenta-browser/tenta-dns) ⭐ 1,600 | 🐛 6 | 🌐 Go | 📅 2020-06-18
 * [robdns](https://github.com/robertdavidgraham/robdns) ⭐ 609 | 🐛 9 | 🌐 C | 📅 2015-12-09
-* [nsd](https://github.com/NLnetLabs/nsd) ⭐ 574 | 🐛 81 | 🌐 C | 📅 2026-11-06
+* [nsd](https://github.com/NLnetLabs/nsd) ⭐ 574 | 🐛 83 | 🌐 C | 📅 2026-11-06
 * [shaman](https://github.com/nanopack/shaman) ⭐ 455 | 🐛 9 | 🌐 Go | 📅 2020-04-29
 * [texnomic/securedns](https://github.com/Texnomic/SecureDNS) ⭐ 369 | 🐛 16 | 🌐 C# | 📅 2026-05-18
 * [Knot DNS](https://gitlab.labs.nic.cz/knot/knot-dns)
@@ -81,7 +81,7 @@
 
 # Security
 
-* [Esoteric sub-domain enumeration techniques](https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration) ⭐ 635 | 🐛 2 | 🌐 Python | 📅 2019-02-05
+* [Esoteric sub-domain enumeration techniques](https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration) ⭐ 636 | 🐛 2 | 🌐 Python | 📅 2019-02-05
 * [DomainChroma: Building actionable threat intelligence from malicious domain names](https://www.sciencedirect.com/science/article/pii/S0167404818302967)
 * [The Modality of Mortality in Domain Names](https://www.farsightsecurity.com/assets/media/download/VB2018-study.pdf)
 * [OpenBSD as an authoritative DNS nameserver](https://cryogenix.net/openbsd_nameserver.html)
@@ -264,4 +264,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._

@@ -19,7 +19,7 @@
             "open_issues": 264,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14424,
+            "stars": 14427,
             "topics": [
               "cncf",
               "coredns",
@@ -43,11 +43,11 @@
             "id": 9693534,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-11T11:20:13Z",
-            "open_issues": 931,
+            "last_commit": "2026-11-12T17:04:45Z",
+            "open_issues": 926,
             "owner": "PowerDNS",
             "repo": "pdns",
-            "stars": 4518,
+            "stars": 4520,
             "topics": [
               "authoritative",
               "dns",
@@ -116,7 +116,7 @@
             "language": "C",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-06T20:49:16Z",
-            "open_issues": 81,
+            "open_issues": 83,
             "owner": "NLnetLabs",
             "repo": "nsd",
             "stars": 574,
@@ -473,7 +473,7 @@
             "open_issues": 2,
             "owner": "appsecco",
             "repo": "bugcrowd-levelup-subdomain-enumeration",
-            "stars": 635,
+            "stars": 636,
             "topics": [
               "bugcrowd",
               "censys",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:43:18.846Z",
+    "last_updated": "2026-11-12T22:53:16.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
