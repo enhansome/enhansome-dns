@@ -15,11 +15,11 @@
             "id": 54230994,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T12:09:27Z",
-            "open_issues": 265,
+            "last_commit": "2026-11-15T00:25:23Z",
+            "open_issues": 267,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14429,
+            "stars": 14430,
             "topics": [
               "cncf",
               "coredns",
@@ -43,11 +43,11 @@
             "id": 9693534,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-14T06:51:46Z",
+            "last_commit": "2026-11-15T17:36:03Z",
             "open_issues": 925,
             "owner": "PowerDNS",
             "repo": "pdns",
-            "stars": 4521,
+            "stars": 4522,
             "topics": [
               "authoritative",
               "dns",
@@ -176,7 +176,7 @@
             "open_issues": 16,
             "owner": "Texnomic",
             "repo": "SecureDNS",
-            "stars": 369,
+            "stars": 370,
             "topics": [
               "blazor",
               "blockchain",
@@ -250,7 +250,7 @@
             "open_issues": 21,
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5782,
+            "stars": 5784,
             "topics": [
               "dns",
               "domains",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T21:41:06.326Z",
+    "last_updated": "2026-11-15T22:07:03.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
