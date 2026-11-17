@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-15T00:25:23Z",
-            "open_issues": 278,
+            "open_issues": 279,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14433,
+            "stars": 14437,
             "topics": [
               "cncf",
               "coredns",
@@ -43,8 +43,8 @@
             "id": 9693534,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-16T14:44:57Z",
-            "open_issues": 926,
+            "last_commit": "2026-11-17T15:11:17Z",
+            "open_issues": 927,
             "owner": "PowerDNS",
             "repo": "pdns",
             "stars": 4523,
@@ -306,7 +306,7 @@
             "language": "Java",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-07T16:41:56Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "dnsjava",
             "repo": "dnsjava",
             "stars": 1091,
@@ -359,7 +359,7 @@
             "open_issues": 151,
             "owner": "zonemaster",
             "repo": "zonemaster",
-            "stars": 548,
+            "stars": 549,
             "topics": [
               "dns",
               "dnssec"
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T01:06:07.079Z",
+    "last_updated": "2026-11-17T23:59:18.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
