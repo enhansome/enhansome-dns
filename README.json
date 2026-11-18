@@ -15,11 +15,11 @@
             "id": 54230994,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T00:25:23Z",
-            "open_issues": 279,
+            "last_commit": "2026-11-18T14:08:38Z",
+            "open_issues": 280,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14437,
+            "stars": 14438,
             "topics": [
               "cncf",
               "coredns",
@@ -43,11 +43,11 @@
             "id": 9693534,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-17T15:11:17Z",
+            "last_commit": "2026-11-18T08:05:32Z",
             "open_issues": 927,
             "owner": "PowerDNS",
             "repo": "pdns",
-            "stars": 4523,
+            "stars": 4525,
             "topics": [
               "authoritative",
               "dns",
@@ -224,7 +224,7 @@
             "open_issues": 79,
             "owner": "ogham",
             "repo": "dog",
-            "stars": 6694,
+            "stars": 6693,
             "topics": [
               "client",
               "command-line",
@@ -250,7 +250,7 @@
             "open_issues": 21,
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5785,
+            "stars": 5786,
             "topics": [
               "dns",
               "domains",
@@ -280,8 +280,8 @@
             "id": 84977146,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T01:44:43Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-18T22:21:11Z",
+            "open_issues": 5,
             "owner": "octodns",
             "repo": "octodns",
             "stars": 3784,
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:59:18.585Z",
+    "last_updated": "2026-11-18T23:36:54.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
