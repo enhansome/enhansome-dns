@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-19T07:47:15Z",
-            "open_issues": 285,
+            "open_issues": 288,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14442,
+            "stars": 14445,
             "topics": [
               "cncf",
               "coredns",
@@ -43,11 +43,11 @@
             "id": 9693534,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-19T16:35:19Z",
-            "open_issues": 925,
+            "last_commit": "2026-11-20T16:29:41Z",
+            "open_issues": 923,
             "owner": "PowerDNS",
             "repo": "pdns",
-            "stars": 4523,
+            "stars": 4525,
             "topics": [
               "authoritative",
               "dns",
@@ -98,7 +98,7 @@
             "open_issues": 9,
             "owner": "robertdavidgraham",
             "repo": "robdns",
-            "stars": 609,
+            "stars": 608,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:13.943Z"
@@ -115,7 +115,7 @@
             "id": 94198614,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-19T08:40:25Z",
+            "last_commit": "2026-11-20T13:29:33Z",
             "open_issues": 81,
             "owner": "NLnetLabs",
             "repo": "nsd",
@@ -280,11 +280,11 @@
             "id": 84977146,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T22:21:11Z",
+            "last_commit": "2026-11-20T03:56:59Z",
             "open_issues": 5,
             "owner": "octodns",
             "repo": "octodns",
-            "stars": 3784,
+            "stars": 3785,
             "topics": [
               "dns",
               "infrastructure-as-code",
@@ -359,7 +359,7 @@
             "open_issues": 151,
             "owner": "zonemaster",
             "repo": "zonemaster",
-            "stars": 549,
+            "stars": 550,
             "topics": [
               "dns",
               "dnssec"
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T23:54:03.495Z",
+    "last_updated": "2026-11-20T23:23:18.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
