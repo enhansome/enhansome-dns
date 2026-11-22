@@ -19,7 +19,7 @@
             "open_issues": 294,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14445,
+            "stars": 14446,
             "topics": [
               "cncf",
               "coredns",
@@ -44,10 +44,10 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-11-20T16:29:41Z",
-            "open_issues": 923,
+            "open_issues": 924,
             "owner": "PowerDNS",
             "repo": "pdns",
-            "stars": 4525,
+            "stars": 4524,
             "topics": [
               "authoritative",
               "dns",
@@ -224,7 +224,7 @@
             "open_issues": 79,
             "owner": "ogham",
             "repo": "dog",
-            "stars": 6693,
+            "stars": 6694,
             "topics": [
               "client",
               "command-line",
@@ -250,7 +250,7 @@
             "open_issues": 21,
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5784,
+            "stars": 5785,
             "topics": [
               "dns",
               "domains",
@@ -284,7 +284,7 @@
             "open_issues": 5,
             "owner": "octodns",
             "repo": "octodns",
-            "stars": 3785,
+            "stars": 3786,
             "topics": [
               "dns",
               "infrastructure-as-code",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T22:26:47.181Z",
+    "last_updated": "2026-11-22T22:50:08.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
