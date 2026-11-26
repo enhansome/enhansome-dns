@@ -15,11 +15,11 @@
             "id": 54230994,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T06:24:45Z",
-            "open_issues": 293,
+            "last_commit": "2026-11-25T13:39:35Z",
+            "open_issues": 299,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14449,
+            "stars": 14455,
             "topics": [
               "cncf",
               "coredns",
@@ -43,11 +43,11 @@
             "id": 9693534,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-24T09:04:21Z",
-            "open_issues": 922,
+            "last_commit": "2026-11-25T15:12:02Z",
+            "open_issues": 924,
             "owner": "PowerDNS",
             "repo": "pdns",
-            "stars": 4528,
+            "stars": 4529,
             "topics": [
               "authoritative",
               "dns",
@@ -115,7 +115,7 @@
             "id": 94198614,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-20T13:29:33Z",
+            "last_commit": "2026-11-25T12:41:03Z",
             "open_issues": 81,
             "owner": "NLnetLabs",
             "repo": "nsd",
@@ -221,7 +221,7 @@
             "language": "Rust",
             "license": "EUPL-1.2",
             "last_commit": "2024-05-29T11:36:13Z",
-            "open_issues": 79,
+            "open_issues": 80,
             "owner": "ogham",
             "repo": "dog",
             "stars": 6694,
@@ -250,7 +250,7 @@
             "open_issues": 21,
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5788,
+            "stars": 5793,
             "topics": [
               "dns",
               "domains",
@@ -284,7 +284,7 @@
             "open_issues": 5,
             "owner": "octodns",
             "repo": "octodns",
-            "stars": 3788,
+            "stars": 3789,
             "topics": [
               "dns",
               "infrastructure-as-code",
@@ -356,10 +356,10 @@
             "language": "Perl",
             "license": "NOASSERTION",
             "last_commit": "2026-11-23T13:45:57Z",
-            "open_issues": 149,
+            "open_issues": 151,
             "owner": "zonemaster",
             "repo": "zonemaster",
-            "stars": 550,
+            "stars": 551,
             "topics": [
               "dns",
               "dnssec"
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T01:37:51.629Z",
+    "last_updated": "2026-11-26T01:11:08.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",
