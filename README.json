@@ -15,11 +15,11 @@
             "id": 54230994,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T13:39:35Z",
-            "open_issues": 299,
+            "last_commit": "2026-11-26T15:31:56Z",
+            "open_issues": 302,
             "owner": "coredns",
             "repo": "coredns",
-            "stars": 14455,
+            "stars": 14459,
             "topics": [
               "cncf",
               "coredns",
@@ -43,8 +43,8 @@
             "id": 9693534,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-25T15:12:02Z",
-            "open_issues": 924,
+            "last_commit": "2026-11-26T15:22:50Z",
+            "open_issues": 930,
             "owner": "PowerDNS",
             "repo": "pdns",
             "stars": 4529,
@@ -119,7 +119,7 @@
             "open_issues": 81,
             "owner": "NLnetLabs",
             "repo": "nsd",
-            "stars": 575,
+            "stars": 576,
             "topics": [
               "authoritative",
               "dns",
@@ -250,7 +250,7 @@
             "open_issues": 21,
             "owner": "elceef",
             "repo": "dnstwist",
-            "stars": 5793,
+            "stars": 5794,
             "topics": [
               "dns",
               "domains",
@@ -284,7 +284,7 @@
             "open_issues": 5,
             "owner": "octodns",
             "repo": "octodns",
-            "stars": 3789,
+            "stars": 3791,
             "topics": [
               "dns",
               "infrastructure-as-code",
@@ -309,7 +309,7 @@
             "open_issues": 19,
             "owner": "dnsjava",
             "repo": "dnsjava",
-            "stars": 1090,
+            "stars": 1091,
             "topics": [
               "dns",
               "dnsjava",
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T01:11:08.209Z",
+    "last_updated": "2026-11-27T01:09:36.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome DNS resources",

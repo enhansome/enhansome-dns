@@ -19,11 +19,11 @@
 
 # Authoritative Nameservers
 
-* [coredns](https://github.com/coredns/coredns) ⭐ 14,455 | 🐛 299 | 🌐 Go | 📅 2026-11-25
-* [PowerDNS](https://github.com/PowerDNS/pdns) ⭐ 4,529 | 🐛 924 | 🌐 C++ | 📅 2026-11-25
+* [coredns](https://github.com/coredns/coredns) ⭐ 14,459 | 🐛 302 | 🌐 Go | 📅 2026-11-26
+* [PowerDNS](https://github.com/PowerDNS/pdns) ⭐ 4,529 | 🐛 930 | 🌐 C++ | 📅 2026-11-26
 * [tenta-dns](https://github.com/tenta-browser/tenta-dns) ⭐ 1,600 | 🐛 6 | 🌐 Go | 📅 2020-06-18
 * [robdns](https://github.com/robertdavidgraham/robdns) ⭐ 608 | 🐛 9 | 🌐 C | 📅 2015-12-09
-* [nsd](https://github.com/NLnetLabs/nsd) ⭐ 575 | 🐛 81 | 🌐 C | 📅 2026-11-25
+* [nsd](https://github.com/NLnetLabs/nsd) ⭐ 576 | 🐛 81 | 🌐 C | 📅 2026-11-25
 * [shaman](https://github.com/nanopack/shaman) ⭐ 453 | 🐛 9 | 🌐 Go | 📅 2020-04-29
 * [texnomic/securedns](https://github.com/Texnomic/SecureDNS) ⭐ 370 | 🐛 16 | 🌐 C# | 📅 2026-05-18
 * [Knot DNS](https://gitlab.labs.nic.cz/knot/knot-dns)
@@ -33,9 +33,9 @@
 # Relevant Projects
 
 * [dog](https://github.com/ogham/dog) ⭐ 6,694 | 🐛 80 | 🌐 Rust | 📅 2024-05-29
-* [dnstwist](https://github.com/elceef/dnstwist/) ⭐ 5,793 | 🐛 21 | 🌐 Python | 📅 2025-04-15
-* [octodns](https://github.com/github/octodns/) ⭐ 3,789 | 🐛 5 | 🌐 Python | 📅 2026-11-20
-* [dnsjava](https://github.com/dnsjava/dnsjava) ⭐ 1,090 | 🐛 19 | 🌐 Java | 📅 2026-11-23
+* [dnstwist](https://github.com/elceef/dnstwist/) ⭐ 5,794 | 🐛 21 | 🌐 Python | 📅 2025-04-15
+* [octodns](https://github.com/github/octodns/) ⭐ 3,791 | 🐛 5 | 🌐 Python | 📅 2026-11-20
+* [dnsjava](https://github.com/dnsjava/dnsjava) ⭐ 1,091 | 🐛 19 | 🌐 Java | 📅 2026-11-23
 * [denominator](https://github.com/Netflix/denominator) ⚠️ Archived
 * [zonemaster](https://github.com/dotse/zonemaster/) ⭐ 551 | 🐛 151 | 🌐 Perl | 📅 2026-11-23
 * [atomiadns](https://github.com/atomia/atomiadns) ⭐ 368 | 🐛 19 | 🌐 Perl | 📅 2024-09-05
@@ -264,4 +264,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
